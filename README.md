@@ -5,5 +5,7 @@ To run it follow this steps:
 2. Unpack .zip file
 3. Open in Pythonista files: "Dvoich.py" and "Dvoich.pyui"
 4. Click to the run button!
+
+The program converts a number from decimal to binary
 	
 Have a happy using! 🙂🙂🙂🙂🙂
