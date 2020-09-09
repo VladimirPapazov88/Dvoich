@@ -1,8 +1,9 @@
 The Pythonista UI script
 
-To the run file follow this steps:
-	1. Unpack .zip achive
-	2. Drop the .py and .pyui files to the Pythonista3 folder
-	3. Open in Pythonista3 "dvoich.py" file and run it
+To run it follow this steps:
+1. Download code .zip file
+2. Unpack .zip file
+3. Open in Pythonista files: "Dvoich.py" and "Dvoich.pyui"
+4. Click to the run button!
 	
 Have a happy using! 🙂🙂🙂🙂🙂
