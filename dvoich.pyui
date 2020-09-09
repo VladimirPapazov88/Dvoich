@@ -1,0 +1,146 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{189, 108}, {353, 48}}",
+        "class" : "Label",
+        "attributes" : {
+          "border_width" : 2,
+          "name" : "label1",
+          "class" : "Label",
+          "frame" : "{{71, 156}, {150, 32}}",
+          "uuid" : "C89CCE9C-D0A4-4642-8D4E-46CC41F41376",
+          "text" : "",
+          "alignment" : "center",
+          "corner_radius" : 2,
+          "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "font_size" : 20,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{300, 62}, {133, 38}}",
+        "class" : "Button",
+        "attributes" : {
+          "uuid" : "76C7E770-67D3-4460-A5A6-687DDC158667",
+          "corner_radius" : 2,
+          "background_color" : "RGBA(0.000000,1.000000,0.000000,1.000000)",
+          "frame" : "{{106, 156}, {80, 32}}",
+          "tint_color" : "RGBA(0.027175,0.040094,0.001336,1.000000)",
+          "border_width" : 2,
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "title" : "Convert",
+          "action" : "perevesti",
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "button1",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{189, 6}, {353, 48}}",
+        "class" : "TextField",
+        "attributes" : {
+          "uuid" : "D0F55AA5-2A64-4DA9-8002-F5F5A0C883CF",
+          "corner_radius" : 2,
+          "frame" : "{{46, 156}, {200, 32}}",
+          "border_width" : 2,
+          "alignment" : "center",
+          "autocorrection_type" : "default",
+          "text" : "",
+          "font_name" : "<System>",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "name" : "textfield1",
+          "font_size" : 20
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 164}, {536, 130}}",
+        "class" : "Label",
+        "attributes" : {
+          "border_width" : 2,
+          "name" : "label2",
+          "text" : "info: The program converts a number from decimal to binary",
+          "frame" : "{{73, 131}, {150, 32}}",
+          "uuid" : "2A80A541-3169-4A03-8811-D248066D2C6A",
+          "background_color" : "RGBA(1.000000,1.000000,0.333333,1.000000)",
+          "corner_radius" : 2,
+          "class" : "Label",
+          "alignment" : "center",
+          "font_size" : 24,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 6}, {175, 48}}",
+        "class" : "Label",
+        "attributes" : {
+          "border_width" : 2,
+          "name" : "label3",
+          "text" : "Decimal number",
+          "frame" : "{{130, 131}, {150, 32}}",
+          "uuid" : "89834F34-AFCC-477A-9180-A65767334CE5",
+          "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "corner_radius" : 2,
+          "class" : "Label",
+          "alignment" : "center",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 108}, {175, 48}}",
+        "class" : "Label",
+        "attributes" : {
+          "border_width" : 2,
+          "name" : "label4",
+          "text" : "Binary number",
+          "frame" : "{{130, 131}, {150, 32}}",
+          "uuid" : "4E204438-62B3-42A5-B4F4-05964CDDD200",
+          "corner_radius" : 2,
+          "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "class" : "Label",
+          "alignment" : "center",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {548, 300}}",
+    "class" : "View",
+    "attributes" : {
+      "background_color" : "RGBA(0.633333,0.755556,1.000000,1.000000)",
+      "enabled" : true,
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "name" : "(C) Vladimir Papazov 2020",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
