@@ -10,4 +10,4 @@ The program converts a number from decimal to binary
 	
 Have a happy using! 🙂🙂🙂🙂🙂
 
-![Image alt](https://github.com/VladimirPapazov88/Dvoich/blob/master/IMG_0949.jpeg?raw=true)
+![Image alt](https://github.com/VladimirPapazov88/Dvoich/blob/master/IMG_0952.jpeg?raw=true)
